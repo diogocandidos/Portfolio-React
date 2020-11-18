@@ -5,7 +5,7 @@
   
   body {
       font-family: 'lucida console', 'Helvetica Neue', Helvetica, sans-serif;
-      font-size: 20px;
+      font-size: 25px;
       color: #777;
       line-height: 34px;
       background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUh9u104ViUb4YRgFPiimwJVbGh2o36cahSw&usqp=CAU");
@@ -81,20 +81,23 @@
     
   .nav-link {
     font-family: 'lucida console', Times New Roman, serif;
-    font-size: 22px;
+    font-size: 26px;
     color: #777;
   }
   
     .main-section {
       border: 1px solid #ddd;
       padding: 20px;
-      margin: 0 0 40px 0;
+      margin: 10px 0 40px 0;
+      font-family: 'lucida console', 'Helvetica Neue', Helvetica, sans-serif;
+      font-size: 20px;
+      color: rgb(87, 85, 85);
       background: white;
     }
     
     .image {
-      width: 50%;
-      height: auto;
+      width: auto%;
+      height: 55%;
       margin-top: 10px;
       margin-right: 25px;
       float: left;
@@ -200,7 +203,7 @@
       clear: both;
       color: #fff;
       color: #ccc;
-      font-size: 12px;
+      font-size: 18px;
       text-align: center;
       background: #666;
       border-top: 8px solid	#5F9EA0;
