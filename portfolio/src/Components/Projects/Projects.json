@@ -1,15 +1,17 @@
+
+
 [
  {
     "id": 1,
     "name": "Mood Me",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/moodme.png",
+    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/codequiz.png",
     "location": "https://github.com/Mando619/Mood-Me-/"
 },
 
 {
     "id": 2,
     "name": "Code Quiz",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/codequiz.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/codequiz.png?raw=true",
     "location": "https://github.com/diogocandidos/Code-Quiz/"
 },
      

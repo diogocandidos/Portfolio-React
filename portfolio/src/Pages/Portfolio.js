@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 import PortfolioCard from "../Components/PortfolioCard";
 import Projects from "../Components/Projects/Projects.json"
-//import "../Styles/Style.css";
+import "../Styles/Style.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -12,6 +12,7 @@ const Portfolio = () => {
     <div className="row">
       <div class="col-md-11 col-sm-12 main-section">
         <h1>Portfolio</h1>
+
         <div className="row portfolio">
             <PortfolioCard 
             name={Projects[0].name}
