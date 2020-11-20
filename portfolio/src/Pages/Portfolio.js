@@ -6,6 +6,7 @@ import "../Styles/Style.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
 const Portfolio = () => {
   return (
   <div className="container">
@@ -48,6 +49,18 @@ const Portfolio = () => {
             name={Projects[5].name}
             image={Projects[5].image}
             location={Projects[5].location}
+            />    
+
+            <PortfolioCard 
+            name={Projects[6].name}
+            image={Projects[6].image}
+            location={Projects[6].location}
+            />
+
+            <PortfolioCard 
+            name={Projects[7].name}
+            image={Projects[7].image}
+            location={Projects[7].location}
             />    
       </div>
 

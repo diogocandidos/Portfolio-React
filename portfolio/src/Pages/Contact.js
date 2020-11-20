@@ -1,6 +1,5 @@
 import React from "react";
 import "../Styles/Style.css";
-import phone from "../Image/phone-icon.png";
 
 const Contact = () => {
   return (
@@ -30,22 +29,12 @@ const Contact = () => {
 
           <div className="col-xs-4 col-xs-offset-1 text-center sidebar main-section" id="link-box">
           <h1>Connect with Me</h1>
-          <a href="../image/Diogo_Candido .pdf"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/phone-icon.png?raw=true" className="social" alt="Resume"/></a>
-           <a href="tel:+16198418934"><img src={phone} class="social" alt="phone" /></a>
-
-
-
-
-
-
-
-
-
-
-            <a href="mailto: diogocandido.s@gmail.com"><img src="https://i.pinimg.com/originals/2b/b4/28/2bb428b7e4aa39078a119deccacae6f3.png" className="social" alt="email" /></a>
-            <a href="https://github.com/diogocandidos"><img src="assets/github.png" className="social" alt="GitHub" /></a>
-            <a href="https://www.linkedin.com/in/diogo-candido-da-silva-26061811a/"><img src="assets/linkedin-icon.png" className="social" alt="LinkedIn" /></a>
-            <a href="https://stackoverflow.com/users/13009471/diogo-candido-da-silva?tab=profile"><img src="assets/stackover-icon (1).png" className="social" alt="Stack Overflow" /></a>
+          <a href="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/Diogo_Candido%20.pdf"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/resume-icon.png?raw=true" className="social" alt="Resume"/></a>
+          <a href="tel:+16198418924"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/phone-icon.png?raw=true" class="social" alt="phone" /></a>
+            <a href="mailto: diogocandido.s@gmail.com"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/email-icon.png?raw=true" className="social" alt="email" /></a>
+            <a href="https://github.com/diogocandidos"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/github.png?raw=true" className="social" alt="GitHub" /></a>
+            <a href="https://www.linkedin.com/in/diogo-candido-da-silva-26061811a/"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/linkedin-icon.png?raw=true" className="social" alt="LinkedIn" /></a>
+            <a href="https://stackoverflow.com/users/13009471/diogo-candido-da-silva?tab=profile"><img src="https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/stackover-icon%20(1).png?raw=true" className="social" alt="Stack Overflow" /></a>
             </div>
       </div>
       </div>

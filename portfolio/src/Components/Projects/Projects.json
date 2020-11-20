@@ -4,7 +4,7 @@
  {
     "id": 1,
     "name": "Mood Me",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/codequiz.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/moodme.png?raw=true",
     "location": "https://github.com/Mando619/Mood-Me-/"
 },
 
@@ -18,29 +18,46 @@
 {
     "id": 3,
     "name": "Day Planner",
-    "image": "/Users/diogocandido/Portfolio-React/portfolio/src/image/calendar.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/calendar.png?raw=true",
     "location": "https://github.com/diogocandidos/Calendar/"
 }, 
 
 {
     "id": 4,
     "name": "Password Generator",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/passwordgenerator.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/passwordgenerator.png?raw=true",
     "location": "https://github.com/diogocandidos/Password-Generator/"
 },
 
 {
     "id": 5,
     "name": "Note Taker",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/note-taker1.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/note-taker1.png?raw=true",
     "location": "https://github.com/diogocandidos/Note-Taker-"
 },
 
 {
     "id": 6,
     "name": "Hypnos",
-    "image": "file:///Users/diogocandido/ultimo/responsive-portfolio/assets/hypnos.png",
+    "image": "https://github.com/diogocandidos/responsive-portfolio/blob/master/assets/hypnos.png?raw=true",
     "location": "https://github.com/diogocandidos/hypnos"
+},
+
+{
+    "id": 7,
+    "name": "Budget Tracker",
+    "image": "https://github.com/diogocandidos/budget-tracker/blob/main/public/icons/budget.png?raw=true",
+    "location": "https://github.com/diogocandidos/budget-tracker"
+},
+
+{
+    "id": 8,
+    "name": "Employee Directory",
+    "image": "https://github.com/diogocandidos/employee-directory/blob/main/public/homepage.png?raw=true",
+    "location": "https://github.com/diogocandidos/employee-directory"
 } 
         
 ]
+
+
+
