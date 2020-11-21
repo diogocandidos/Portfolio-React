@@ -38,7 +38,7 @@ If you are opting out of career services, this is *still a required assignment*.
 
 * Click in the link bellow to access the application.
 
-****** [Heroku link]() ******
+****** [Heroku link](https://homework-portfolio-react.herokuapp.com/) ******
 
 1. Homepage
 
